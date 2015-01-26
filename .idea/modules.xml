@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/simpleReportingSystem.iml" filepath="$PROJECT_DIR$/.idea_modules/simpleReportingSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea_modules/simpleReportingSystem-build.iml" filepath="$PROJECT_DIR$/.idea_modules/simpleReportingSystem-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplereportingsystem2.iml" filepath="$PROJECT_DIR$/.idea/modules/simplereportingsystem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplereportingsystem2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simplereportingsystem2-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplereportingsystem3.iml" filepath="$PROJECT_DIR$/.idea/modules/simplereportingsystem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simplereportingsystem3-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simplereportingsystem3-build.iml" />
+    </modules>
+  </component>
+</project>
