@@ -11,7 +11,7 @@ object RunExample {
 		val system = ActorSystem("actorsystem")
 		
 		val mongoClient1 = MongoClient()
-		val db1 = mongoClient1("RSTransation")
+		val db1 = mongoClient1("RSTransaction")
 		val mongoClient2 = MongoClient()
 		val db2 = mongoClient1("RSAccount")
 		
