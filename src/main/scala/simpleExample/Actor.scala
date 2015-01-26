@@ -42,6 +42,7 @@ class EventBusActor() extends Actor{
 	def receive = {
 	  case events:List[Event] => logger.info("EventBus receives a event stream")
 			  						events.foreach(ev=>logger.info(ev.toString))
+									//event bus dispatchs events to serveral events'listeners
 	  case _ => logger.warn("Error messages are sent to the Mongo-Actor")
 	}
 }
