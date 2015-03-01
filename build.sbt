@@ -19,6 +19,7 @@ libraryDependencies ++= Seq(
 "com.novocode" % "junit-interface" % "0.10" % "test",
 "ch.qos.logback" % "logback-classic" % "1.1.1",
 "com.typesafe.akka" %% "akka-actor" % "2.3.3",
-"log4j" % "log4j" % "1.2.14"
+"log4j" % "log4j" % "1.2.14",
+"net.debasishg" %% "redisclient" % "2.13"
 )
     
